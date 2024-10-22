@@ -20,5 +20,5 @@ When dealing with hyperbolic PDEs, it is common to treat the space and time vari
 - Mass condensation,
 - and Cholesky decomposition.
 
-<img src="img/Image_26.PNG" alt="drawing" width="400"/> <img src="img/Image_27.PNG" alt="drawing" width="400"/> <img src="img/Image_28.PNG" alt="drawing" width="400"/>
+<img src="img/Image_26.png" alt="drawing" width="400"/> <img src="img/Image_27.PNG" alt="drawing" width="400"/> <img src="img/Image_28.PNG" alt="drawing" width="400"/>
 <img src="img/Image_29.PNG" alt="drawing" width="400"/> <img src="img/Image_30.PNG" alt="drawing" width="400"/> <img src="img/Image_31.PNG" alt="drawing" width="400"/>
