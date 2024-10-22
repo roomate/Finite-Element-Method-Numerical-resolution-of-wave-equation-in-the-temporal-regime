@@ -10,12 +10,15 @@ In a homogeneous medium:
 <img src="img/Solexacte.jpg" alt="drawing" width="400"/>
 
 In a nonhomogeneous medium:
-<img src="img/sigma_2.jpg" alt="drawing" width="400"/>
-<img src="img/Stat2.jpg" alt="drawing" width="400"/>
+<img src="img/sigma_2.jpg" alt="drawing" width="400"/> <img src="img/Stat2.jpg" alt="drawing" width="400"/>
+On the left is the elasticity coefficient while on the right, is the numerical solution.
 
 
 ### Temporal resolution
-The temporal discretization is made with a leap-frog scheme; three different techniques are employed for the space discretization: 
+When dealing with hyperbolic PDEs, it is common to treat the space and time variable differently. The temporal derivative is discretized via a finite-difference scheme, while the spatial part is discretized thanks to the finite element method. More specifically, the temporal discretization is done with the classical leap-frog scheme for two times derivatives. Concerning the computation of the mass matrix, three different techniques are employed: 
 - Standard Quadrature,
 - Mass condensation,
-- and Cholesky decoomposition.
+- and Cholesky decomposition.
+
+<img src="img/Image_26.jpg" alt="drawing" width="400"/> <img src="img/Image_27.jpg" alt="drawing" width="400"/> <img src="img/Image_28.jpg" alt="drawing" width="400"/>
+<img src="img/Image_29.jpg" alt="drawing" width="400"/> <img src="img/Image_30.jpg" alt="drawing" width="400"/> <img src="img/Image_31.jpg" alt="drawing" width="400"/>
