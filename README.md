@@ -10,7 +10,9 @@ In a homogeneous medium:
 <img src="img/Solexacte.jpg" alt="drawing" width="400"/>
 
 In a nonhomogeneous medium:
-<img src="img/.jpg" alt="drawing" width="400"/>
+<img src="img/sigma_2.jpg" alt="drawing" width="400"/>
+<img src="img/Stat2.jpg" alt="drawing" width="400"/>
+
 
 ### Temporal resolution
 The temporal discretization is made with a leap-frog scheme; three different techniques are employed for the space discretization: 
