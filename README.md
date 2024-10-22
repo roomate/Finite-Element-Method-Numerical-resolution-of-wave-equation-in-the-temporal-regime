@@ -6,8 +6,7 @@ a rectangular domain while in a second time, one deals with the propagation of a
 ### Stationary resolution
 The resolution of the Laplace equation via the Finite Element Method is standard here. After an adequate discretization of the Sobolev space, it amounts to solving a linear equation. The associated matrix is known to be sparse; MATLAB takes advantage of such a structure to accelerate the resolution of the linear equation. 
 
-![Drag Racing](img/energies.png)
-
+<img src="img.energies.png" alt="drawing" width="200"/>
 
 ### Temporal resolution
 The temporal discretization is made with a leap-frog scheme; three different techniques are employed for the space discretization: 
