@@ -12,7 +12,7 @@ In a homogeneous medium:
 In a nonhomogeneous medium:
 <img src="img/sigma_2.jpg" alt="drawing" width="400"/> <img src="img/Stat2.jpg" alt="drawing" width="400"/>
 
-On the left is the elasticity coefficient while on the right, is the numerical solution.
+On the left is the elasticity coefficient. On the right is the numerical solution of Laplace equation on the rectangular domain.
 
 
 ### Temporal resolution
